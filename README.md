@@ -1,4 +1,4 @@
-# resep_makanan
+# FOOD RECIPE
 
 Untuk desain recipe card yang saya buat menggunakan flutter dengan spesifikasi pendeklarasian widget ini, dengan ada blok dengan menggunakan BoxDecoration yang didalamnya berwarna hitam dengan transparansi warna dan saya buat Box, menambahkan image decoration yang saya ambil dari thumbnail dari generate data API dari https://rapidapi.com/apidojo/api/yummly2/ API Documentation kemudian saya buat stack yang berfungsi untuk menumpuk layer dimana layer yang diatasnya adalah layer yang berikutnya menggunakan stack selanjutnya saya menampilkan tulisan Alignment, Row, Container 1 yang saya gunkan untuk menampilkan rating dengan box decoration yang sifatnya circular, dengan isinya rating gambar bintang berwarna kuning / yellow ukuran 18 berikutnya container 2 dengan posisi daya menggunakan spacebetween sehingga ada di kanan dan kiri sehingga terpisah dengan data cooktime dan saya memasukkan data menggunakan listview.builder, maka akan dibuatkan sejumlah list dalam bentuk list view yang isinya adalah resep card yang saya ambil dari sebuah API dari https://rapidapi.com/apidojo/api/yummly2/
 
